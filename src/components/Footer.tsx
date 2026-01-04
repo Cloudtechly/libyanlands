@@ -31,7 +31,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-10 md:mt-0 flex gap-8 text-xl font-bold uppercase">
-          <a href="https://www.facebook.com/p/CAR-MAX-100063667478766/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Facebook</a>
+          <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Facebook</a>
         </div>
       </div>
       <div className="mt-20 pt-10 border-t border-black flex justify-between text-sm font-bold uppercase">
