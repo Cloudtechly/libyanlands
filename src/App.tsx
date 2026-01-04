@@ -34,7 +34,7 @@ function App() {
           <ProcessSection />
           <GlobalReachSection />
           <ParallaxImages />
-          <TestimonialsSection />
+ 
           <CertificationsSection />
         
         
