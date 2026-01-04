@@ -39,3 +39,4 @@ A high-performance landing page inspired by landonorris.com, featuring WebGL liq
 - `src/components/SmoothScroll.tsx`: Lenis integration.
 - `src/components/CustomCursor.tsx`: Custom cursor component.
 - `src/app/globals.css`: Global styles and Tailwind configuration.
+# libyanlands
