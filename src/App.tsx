@@ -11,7 +11,7 @@ import ProcessSection from "@/components/ProcessSection";
 import GlobalReachSection from "@/components/GlobalReachSection";
 import ServicesSection from "@/components/ServicesSection";
 import ParallaxImages from "@/components/ParallaxImages";
-import TestimonialsSection from "@/components/TestimonialsSection";
+
 import CertificationsSection from "@/components/CertificationsSection";
 import ShopSection from "@/components/ShopSection";
 import SocialsSection from "@/components/SocialsSection";
