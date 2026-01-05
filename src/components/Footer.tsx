@@ -20,13 +20,13 @@ export default function Footer() {
               className={`text-2xl md:text-4xl font-bold underline decoration-black decoration-2 underline-offset-8 hover:text-white transition-colors ${dir === 'rtl' ? 'text-right' : 'text-left'}`}
               dir="ltr"
             >
-              +218 92 130 1492
+            
             </a>
             <a
               href="mailto:zakshakmak2@gmail.com"
               className={`text-xl md:text-2xl font-bold hover:text-white transition-colors ${dir === 'rtl' ? 'text-right' : 'text-left'}`}
             >
-              zakshakmak2@gmail.com
+              
             </a>
           </div>
         </div>
