@@ -12,7 +12,7 @@ const navImages = [
 ];
 
 const socialLinks = [
-  { title: "Facebook", href: "https://www.facebook.com/p/CAR-MAX-100063667478766/" },
+  { title: "Facebook", href: "" },
 ];
 
 export default function Navbar() {
