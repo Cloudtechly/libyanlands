@@ -160,7 +160,7 @@ export default function Navbar() {
                 </motion.div>
                 
                 <div className="flex flex-wrap gap-6 text-sm font-bold uppercase text-white/60">
-                  <a href="mailto:contact@carmax.ly" className="hover:text-white transition-colors">{t.navbar.contact}</a>
+                  <a href="" className="hover:text-white transition-colors">{t.navbar.contact}</a>
                   {socialLinks.map((social, i) => (
                     <a key={i} href={social.href} target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                       {social.title}
